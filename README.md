@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning FullStack-MERN
 - 💞️ I’m looking to collaborate on WebDev
 - 📫 How to reach me-- m.me/sawaldherwa
-- Whatsapp +923484410838
+-  ✆ Whatsapp +923484410838
 
 <!---
 sawaldherwa/sawaldherwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
