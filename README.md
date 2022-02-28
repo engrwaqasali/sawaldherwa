@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sawaldherwa
+- 👋 Hi, I’m @engrwaqasali
 - 💞️ FullName--Waqas Ali
-- 👀 I’m interested in WebDesigning
-- 🌱 I’m currently learning FullStack-MERN
+- 👀 I’m interested in WebApps/React
+- 🌱 I’m currently learning BackendDev
 - 💞️ I’m looking to collaborate on WebDev
 - 📫 How to reach me-- m.me/sawaldherwa
 -  ✆ Whatsapp +923484410838
