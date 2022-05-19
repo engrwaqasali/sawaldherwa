@@ -7,7 +7,7 @@
           - Typescript
           - Loopback 
 - 🌱 I’m currently learning BackendDev
-- 💞️ I’m looking to collaborate on WebDev
+- 💞️ I’m looking to collaborate on React based Apps
 - 📫 How to reach me-- m.me/sawaldherwa
 -  ✆ Whatsapp +923484410838
 - 📫 Email address-- engrwaqqasali@gmail.com
