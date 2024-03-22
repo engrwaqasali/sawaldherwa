@@ -5,12 +5,18 @@
           - React Native
           - Apollo Graphql
           - Typescript
-          - Loopback 
-- 🌱 I’m currently learning BackendDev
+          - Loopback
+          - NestJs
+          - Web3
+          - NextJs
+          - WalletConnect
+          - Etherium
+          - Web3Wallet
+          - Postgres
+- 🌱 I’m currently learning Slodity
 - 💞️ I’m looking to collaborate on React based Apps
-- 📫 How to reach me-- m.me/sawaldherwa
+- 📫 How to reach me-- engrwaqasali.com
 -  ✆ Whatsapp +923484410838
-- 📫 Email address-- engrwaqqasali@gmail.com
 
 <!---
 sawaldherwa/sawaldherwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
